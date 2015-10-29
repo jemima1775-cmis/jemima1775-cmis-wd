@@ -1,0 +1,11 @@
+ls=list folder
+jemima1775-cmis
+git clone --config="http.proxy=http://jemima1775:elljem7@192.168.2.1:8080" https://github.com/jemima1775-cmis/jemima1775-cmis-wd.git
+gedit file & = open something in gedit
+cd= enter into a folder
+cd .. = go back to parent folder
+git status= list recent changes
+git add filename = added file
+git commit -m “comment”
+ctrl c = cancel command
+git push= git push
