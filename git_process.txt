@@ -1,0 +1,11 @@
+To start, open terminal by clicking the black icon in the bottom left of your screen.
+Once you have opened it, you need to clone your git hub account. To do this, you need to type: git clone --config="http.proxy=http:/<your internet login username>:<your internet loging password>@192.168.2.1:8080" https://github.com/<your github username>/<your git hub repository naem.git> then press enter
+then open your github file in terminal by typing < cd and then your repository file.git> then press enter
+once you are in your file type gedit and the name of the file you want to create (git_process.txt) and then add the 
+"&" sign then press enter 
+A white box should pop up, type what you want to type in this box and then save your work by pressing save
+close the box, and then in terminal, type "git add" and then the name of your new file then press enter. This will start git monitoring that file
+Then type "git commit -m "a short description of what you did to the file" and then enter. This will save the info on your monitor
+To push it back to the git server, type "git push" and then press enter.
+It will then ask you to type in your git username then press enter
+After this, it will ask you for your git password. Type this (note that no writing will appear on the screen). then press enter. Then you are finished.
