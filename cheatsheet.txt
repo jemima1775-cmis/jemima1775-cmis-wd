@@ -1,5 +1,5 @@
-ls=list folder
 jemima1775-cmis
+ls=list folder
 git clone --config="http.proxy=http://jemima1775:elljem7@192.168.2.1:8080" https://github.com/jemima1775-cmis/jemima1775-cmis-wd.git
 gedit file & = open something in gedit
 cd= enter into a folder
