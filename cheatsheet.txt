@@ -9,3 +9,4 @@ git add filename = added file
 git commit -m “comment”
 ctrl c = cancel command
 git push= git push
+clear=clear screen
