@@ -10,3 +10,11 @@ git commit -m “comment”
 ctrl c = cancel command
 git push= git push
 clear=clear screen
+sftp jemima1775@cmis-hsteacher = open sftp
+put filename = move to public folder 
+rm filename = remove 
+!ls = shows whats on local machine
+* = do it to all (ls * = list all)
+*.txt = do it to all .txt files (works with others too)
+python -m SimpleHTTPServer= start development server
+exit = leave sftp
