@@ -1,11 +1,40 @@
 h1 {
- 	font-family:Georgia;
+ 	font-family:Impact;
 	color:MediumVioletRed;
 	font-size:40px;
 	background-color:MidnightBlue;
+	border-style:solid; 
+	border-color:green;
+}
+html{
+	background-color:MediumTurquoise;
+	border-style:solid;
 }
 h2 {
-	font-family: Courirer New;
-	color:DarkMagenta
+	font-family:Comic Sans MS;
+	color:DarkMagenta;
 	font-size:30px;
-	background
+	background-color:MediumTurquoise;
+	border-style:none; 
+	border-color:none;
+}
+p1{
+	font-family:Comic Sans MS;
+	color:DarkMagenta;
+	font-size:25px;
+	background-color:MediumTurquoise;
+}
+	
+nav{
+	font-family:Comic Sans MS;
+	color:MignightBlue;
+	font-size:20px;
+	background-color:Snow;
+}
+footer{
+	font-family:Rockwell;
+	color:DarkMagenta;
+	font-size:15px;
+	background-color:MediumTurquoise;
+}
+
