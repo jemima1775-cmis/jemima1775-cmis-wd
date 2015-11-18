@@ -18,3 +18,5 @@ rm filename = remove
 *.txt = do it to all .txt files (works with others too)
 python -m SimpleHTTPServer= start development server
 exit = leave sftp
+mkdir foldername = new folder
+rmdir foldername = remove folder
