@@ -9,19 +9,43 @@
 	</head>
 	<body>
 		<header>
-			<h1>
-			
-			</h1>
+		
 		</header>
 		<nav>
 		</nav>
 		<main>
-			<h2>  
-				
-			</h2>
-			<p> 
-				
-			</p>
+			<ol>
+				<li>
+					The first step is to open the terminal window and enter your repository by typing" cd (your repository name)" and then pressing enter
+				</li>
+				<li>
+					Once you are in your repository on terminal, type " gedit (filename) &amp;" so that you can open a new file that will code your website then press enter.
+				</li>
+				<li>
+					The next step is to code your file and add css files to it.
+				</li>
+				<li>
+					During the process of coding your file, make sure to regularly validate it.
+				</li>
+				<li>
+					Once you are happy with your file, you can save it, and then type "python -m SimpleHTTPServer" into terminal. (this will launch a local server so that if you type "localhost:8000/(filename)" into a search bar on the internet on your computer, you will be able to see what your website will look like.
+				</li>
+				<li>
+					After checking your website looks right, you need to upload it to the production server. To do this, you need to type "sftp(your username)-hsteacher" into terminal (make sure you are in your repository folder in terminal when you type this in), then press enter. This will take you to the production server.
+				</li>
+				<li>
+					Once you have have typed in the above, you will be asked a question which you need to type "yes" to, and then you will need to type in your password.
+				</li>
+				<li>
+					When you get into sftp, you need to enter your public.html folder, by typing "cd public.html"
+				</li>
+				<li>
+					Once you are into your public.html folder, you can add your file by typing " put (filename)".
+				</li>
+				<li>
+					Finally, you can then view your webpage from any computer on the school proxy server, by typing "http://cmis-hsteacher/~(your username)/(filename)".
+				</li>
+			</ol>
 		</main>
 		
 		<footer>
