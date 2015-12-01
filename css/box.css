@@ -1,6 +1,28 @@
-header{
+ header{
 	width: 320px;
 	padding: 5px;
+	margin: 5px;
 	border: 20px dashed HotPink;
 	background-color:MediumSlateBlue;
 }
+nav ul{ 
+	background-color:DeepPink;
+	color: darkcyan;
+	font-size: 20px;
+	width: 1000px;
+	padding: 20px;
+	border: 20px double indigo;
+}
+table>thead{ border: 20px double pink;
+}
+table {
+		border-collapse: collapse;
+		background-color: PowderBlue;
+		margin: 0px;
+		color: plum;
+		border: 5px groove RebeccaPurple;
+}
+
+
+}
+
