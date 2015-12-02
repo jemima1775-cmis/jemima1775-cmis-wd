@@ -6,12 +6,12 @@
 	background-color:MediumSlateBlue;
 }
 nav ul{ 
-	background-color:DeepPink;
+	background-color:MistyRose;
 	color: darkcyan;
 	font-size: 20px;
 	width: 1000px;
 	padding: 20px;
-	border: 20px double indigo;
+	border: 20px double RoyalBlue;
 }
 table>thead{ border: 20px double pink;
 }
@@ -22,7 +22,36 @@ table {
 		color: plum;
 		border: 5px groove RebeccaPurple;
 }
-
-
+tbody th{
+		color: lime;
 }
-
+main li{
+		background-color:DeepPink;
+		color: darkcyan;
+		font-size: 20px;
+		width: 1000px;
+		padding: 20px;
+		border: 20px double indigo;
+}
+h2+p{
+		color:MidnightBlue;	
+		font-variant:small-caps;
+		font-family:impact;
+		font-size: 20px;
+		
+}	
+h2{
+	width: 320px;
+	padding: 5px;
+	margin: 5px;
+	border: 10px double #D147FF;
+	background-color:#FF33CC;
+	height:15px;
+	text-shadow:2px 4px blue;
+	color:#C2F0F0;
+	line-height:12px;
+	font-size: 30px;
+	
+}	
+html{background-image:url(http://www.scuba-native.de/wp-content/supersized-slides/back01.jpg)
+}
