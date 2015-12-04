@@ -1,0 +1,60 @@
+header{
+	border-style: hidden solid hidden hidden;
+	border-color:yellow;
+	border-width: 100px;
+	background-color: red;
+	width: 320px;
+	padding: 5px;
+	height:200px
+}
+h1{
+	border:solid yellow;
+	border-width: 1px
+	
+}
+header p{
+	color:white;
+	font-style: bold;
+}
+nav{
+	border:1px solid black;
+	margin-left:150px;
+}
+main{
+	background-color:gray;
+}
+h2+p{
+	background-color:white;
+	margin-left:150px;
+	
+}
+p+p{
+	background-color:black;
+	margin-left:150px;
+	color:white;
+	
+}
+table{
+	background-color:white;
+}
+th{
+	background-color:yellow;
+}
+tbody th{
+	color:red;
+}
+tfoot th{
+	background-color:red;
+	color:yellow;
+}
+footer{
+	
+	padding: 15px ;
+	border:  10px dashed;	
+	border-color: blue;
+	color:white;
+	
+}
+footer p{
+	background-color:blue;
+}
