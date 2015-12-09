@@ -1,0 +1,19 @@
+nav{
+	width:200px;
+	float:right;
+	
+}
+main{
+	margin-right:201px;
+}
+header{
+	color: Turquoise;
+}
+html{
+	background-image:url("images/bgg.png");
+}
+body{
+	background-color: white;
+	margin-left: 30px;
+	margin-right: 30px;
+}
