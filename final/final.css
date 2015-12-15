@@ -1,10 +1,14 @@
 nav{
 	width:200px;
-	float:right;
+	float:left;
 	
 }
 main{
-	margin-right:201px;
+	margin-left:201px;
+	border-style:solid;
+	width:1000px;
+	clear:right;
+	overflow:auto;
 }
 header{
 	color: Turquoise;
@@ -21,5 +25,20 @@ footer{
 	clear:both;
 }
 img{
+	width:250px;
+	height:200px;
 	float:right;
+}
+p{
+	overflow:auto;
+	margin-right:500px;
+}
+ol{
+	list-style-type:none;
+}
+main ol{
+	border-style:solid;
+}
+ul{
+	margin-left:100px;
 }
